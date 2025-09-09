@@ -1,6 +1,6 @@
 # Product specification - Option C
 
-[This is a draft, the file is also available at yellow-publish for now](https://github.com/annaesvensson/yellow-publish/blob/main/product-specification.md).
+This is a draft, [the file is also available at yellow-publish](https://github.com/annaesvensson/yellow-publish/blob/main/product-specification.md). Or how about storing it in the [yellow main repository](https://github.com/datenstrom/yellow)?
 
 You can help us with the following problems and solutions:
 
