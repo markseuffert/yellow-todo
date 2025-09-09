@@ -1,10 +1,10 @@
-# Ideas and tasks - Option A
+# Product task table - Option A
 
 This is a draft, the file will probably be deleted soon.
 
-You can help us with the following ideas for Datenstrom Yellow:
+You can help us with the following tasks for Datenstrom Yellow:
 
-| Summary of what needs to be done | Solution for which problem | Status |
+| Description of what needs to be done | Solution for which problem | Status |
 |:---------------------------------|:---------------------------|--------|
 | Added support for light and dark mode to all themes                     | Commonly used on mobile devices
 | Added support for installing extensions in web browser                  | Expected by many users - [#991](https://github.com/datenstrom/community/discussions/991)
