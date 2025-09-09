@@ -2,7 +2,7 @@
 
 This is a draft, the file will probably be deleted soon.
 
-You can help us with the following ideas and tasks:
+You can help us with the following ideas and tasks for Datenstrom Yellow:
 
 - [ ] Added support for light and dark mode to all themes.                      Commonly used on mobile devices
 - [ ] Added support for installing extensions in web browser.                   Expected by many users - [see #991](https://github.com/datenstrom/community/discussions/991)
