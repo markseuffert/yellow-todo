@@ -2,7 +2,7 @@
 
 This is a draft, the file will probably be deleted soon.
 
-You can help us with the following ideas and tasks.
+You can help us with the following ideas and tasks for Datenstrom Yellow.
 
 | Summary of what needs to be done | Solution for which problem | Status |
 |:---------------------------------|:---------------------------|--------|
