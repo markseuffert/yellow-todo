@@ -1,6 +1,8 @@
 # Product specification for Datenstrom Yellow
 
-You can help us with the following problems and solutions.
+[This is a draft, the file is also available at yellow-publish](https://github.com/annaesvensson/yellow-publish/blob/main/product-specification.md).
+
+You can help us with the following problems and solutions:
 
 - [ ] Light/dark mode is expected on mobile devices. Added support for light and dark mode to all themes.                      
 - [ ] Users can't see and install extensions in browser. Added support for installing extensions in web browser. [#991](https://github.com/datenstrom/community/discussions/991)
