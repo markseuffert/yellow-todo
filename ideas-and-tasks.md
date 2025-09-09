@@ -1,5 +1,7 @@
 # Ideas and tasks
 
+This is a draft, the file will probably be deleted soon.
+
 ## Option A: table format
 
 You can help us with the following ideas and tasks.
