@@ -1,4 +1,4 @@
-# Product specification for Datenstrom Yellow
+# Product specification for Datenstrom Yellow - Option C
 
 [This is a draft, the file is also available at yellow-publish](https://github.com/annaesvensson/yellow-publish/blob/main/product-specification.md).
 
